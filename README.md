@@ -32,8 +32,7 @@ This code is a simple calculator that allows you to choose between two types of 
 
 -If you enter ‘bond’, the code will ask you to enter the value of your house, the interest rate as a percentage, and the number of months for repayment. The code will then calculate and display the monthly repayment amount.
 
-
-![Screenshot of the project]([image.png](https://www.dropbox.com/home/JM23010007033/Data%20Science%20(Fundamentals)/T25?preview=Screen+shot+of+project.docx 'My Project'))
+![image](https://github.com/JenMal92/finalCapstone/assets/135972640/c186b364-2404-48c5-8135-281a216be4e4)
 
 ## Credits
 
