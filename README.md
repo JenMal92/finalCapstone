@@ -31,9 +31,9 @@ This code is a simple calculator that allows you to choose between two types of 
 -If you enter ‘investment’, the code will ask you to enter the amount of money you are depositing, the interest rate as a percentage, the number of years you are investing for, and the type of interest (simple or compound). The code will then calculate and display the total amount after applying the interest rate.
 
 -If you enter ‘bond’, the code will ask you to enter the value of your house, the interest rate as a percentage, and the number of months for repayment. The code will then calculate and display the monthly repayment amount.
-image.png
 
-![Screenshot of the project](image.png)
+
+![Screenshot of the project]([image.png](https://www.dropbox.com/home/JM23010007033/Data%20Science%20(Fundamentals)/T25?preview=Screen+shot+of+project.docx 'My Project'))
 
 ## Credits
 
